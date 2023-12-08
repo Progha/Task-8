@@ -60,6 +60,10 @@ header{
     font-size: 14px;
     margin-top: 0px;
 }
+.btn-2:hover{
+    color: #E02C6D;
+    background-color: white;
+}
 /* Main Section */
 .players{
     display: grid;
