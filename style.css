@@ -26,6 +26,10 @@ header{
     color:white;
     font-size: 14px;
 }
+.btn-1:hover{
+    color:#E02C6D;
+    background-color: whitesmoke;
+}
 .head-1{
     display:flex;
 }
